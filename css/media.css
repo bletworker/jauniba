@@ -1,0 +1,1405 @@
+@media (max-width: 1750px) {
+    .footer_menu-col ul li a {
+        font-size: 18px;
+    }
+    .footer_info-col ul li a {
+        font-size: 17px;
+    }
+    .default_btn {
+        font-size: 17px;
+    }
+    .footer_menu-col ul li a {
+        font-size: 18px;
+    }
+    .header_inner, .footer {
+        padding: 30px 0;
+    }
+    .header_logo img {
+        width: 120px;
+    }
+    .intro_inner {
+        top: 100px;
+    }
+    .individualtraining_body h2 {
+        font-size: 34px;
+    }
+    .individualtraining_body h6 {
+        font-size: 22px;
+        line-height: 26px;
+    }
+    .individualtraining_body p {
+        font-size: 22px;
+        line-height: 25px;
+    }
+    .individualtraining_body a {
+        font-size: 16px;
+        padding: 17px 30px;
+    }
+    .forparents_img-wrapper {
+        width: 400px !important;
+    }
+    .footer_logo img {
+        width: 100px;
+    }
+}
+
+@media (max-width: 1680px) {
+    .default_btn {
+        font-size: 17px;
+    }
+}
+
+@media (max-width: 1600px) {
+    .header_inner, .footer {
+        padding: 28px 0;
+    }
+    .header_logo img {
+        width: 116px;
+    }
+    .intro_inner {
+        top: 85px;
+    }
+    .individualtraining_body h2 {
+        font-size: 33px;
+        margin-bottom: 30px;
+        line-height: 38px;
+    }
+    .individualtraining_body h6 {
+        font-size: 21px;
+        line-height: 24px;
+        margin-bottom: 25px;
+    }
+    .individualtraining_body p img {
+        width: 32px;
+    }
+    .individualtraining_body p {
+        font-size: 21px;
+        margin-bottom: 20px;
+    }
+    .individualtraining_body a {
+        margin-top: 20px;
+        font-size: 13px;
+        padding: 13px 26px;
+    }
+    .footer_logo img {
+        width: 90px;
+    }
+    .footer {
+        font-size: 17px;
+    }
+    .footer_safe-col {
+        font-size: 17px;
+    }
+}
+
+@media (max-width: 1500px) {
+    .intro_inner {
+        top: 80px;
+    }
+}
+
+@media (max-width: 1440px) {
+    .header_inner, .footer {
+        padding: 26px 0;
+    }
+    .header_logo img {
+        width: 113px;
+    }
+    .menu_item a {
+        font-size: 15px;
+    }
+    .intro_inner h1, .freetraining_inner h1 {
+        font-size: 42px;
+    }
+    .intro_inner p {
+        font-size: 23px;
+        line-height: 28px;
+        margin-bottom: 56px;
+    }
+    .default_btn {
+        font-size: 17px;
+        line-height: 20px;
+        padding: 16px 35px;
+    }
+    .whywe {
+        padding: 32px 55px;
+    }
+    .whywe_header h2, .attentiontoprocess_header h2, .contacts_header h2, .freetraining_inner div span, .gallery_header h2, .forparents_header h2, .advantages_header h2, .FAQ_header h2 {
+        font-size: 33px;
+        line-height: 38px;
+    }
+    .gallery {
+        padding: 80px 0 50px;
+    }
+    .gallery_header {
+        margin-bottom: 20px;
+    }
+    .fancybox-slide--image .fancybox-content img {
+        width: 80%;
+    }
+    #body_gallery .fancybox-slide--complete .fancybox-content img {
+        width: 80%;
+    }
+    .forparents {
+        padding: 110px 0 0;
+    }
+    .forparents_img-wrapper {
+        width: 370px !important;
+    }
+    .advantages {
+        padding: 100px 0 0;
+    }
+    .FAQ_body-collapse {
+        padding: 15px 24px 15px 42px;
+        margin-bottom: 25px;
+    }
+    .FAQ_body-collapse.active::before {
+        width: 23px;
+    }
+    .individualtraining_body p {
+        font-size: 20px;
+    }
+    .footer_logo img {
+        width: 80px;
+    }
+    .footer {
+        font-size: 15px;
+    }
+    .footer_safe-col {
+        font-size: 16px;
+    }
+    .footer_info-col ul li a {
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 1366px) {
+    .footer {
+        font-size: 14px;
+    }
+    .default_btn {
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 1280px) {
+    .footer {
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 1300px) {
+    .header_inner, .footer {
+        padding: 23px 0;
+    }
+    .header_logo img {
+        width: 104px;
+    }
+    .individualtraining_body h2 {
+        font-size: 28px;
+        line-height: 30px;
+    }
+    .individualtraining_body h6 {
+        font-size: 20px;
+        line-height: 21px;
+    }
+    .individualtraining_body p {
+        font-size: 18px;
+    }
+    .individualtraining_body p img {
+        width: 30px;
+        margin-right: 8px;
+    }
+    .individualtraining_body a {
+        font-size: 13px;
+    }
+    .footer_logo img {
+        width: 75px;
+    }
+}
+
+@media(max-width: 1227px) {
+    .whywecouch_trainer {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .individualtraining_bg {
+        transform: translateX(15%);
+        width: 100%;
+        height: auto;
+    }
+}
+
+@media(max-width: 1200px) {
+    .header_inner, .footer {
+        padding: 18px 0;
+    }
+    .header_logo img {
+        width: 93px;
+    }
+    .menu_item+.menu_item {
+        padding-left: 35px;
+    }
+    .header_phone-num {
+        font-size: 21px !important;
+    }
+    .menu_item p {
+        font-size: 17px;
+    }
+    .intro_inner {
+        top: 90px;
+    }
+    .attentiontoprocess_header h2, .whywe_header h2, .contacts_header h2, .freetraining_inner div span, .gallery_header h2, .forparents_header h2, .advantages_header h2, .FAQ_header h2 {
+        font-size: 32px;
+        line-height: 50px;
+        margin-bottom: 18px;
+    }
+    .freetraining_inner div span {
+        margin-bottom: 0;
+    }
+    .gallery {
+        padding: 60px 0 30px;
+    }
+    .gallery_header {
+        margin-bottom: 0;
+    }
+    .forparents {
+        padding: 80px 0 0;
+    }
+    .advantages {
+        padding: 70px 0 0;
+    }
+    .FAQ {
+        padding: 60px 0 30px;
+    }
+    .FAQ_body-collapse div img {
+        width: 50px;
+    }
+    .footer_logo img {
+        width: 70px;
+    }
+    .footer {
+        font-size: 14px;
+    }
+    .footer_safe-col {
+        font-size: 14px;
+    }
+    .footer_info-col ul li a {
+        font-size: 13px;
+    }
+}
+
+@media(max-width: 1199px) {
+    .intro_inner {
+        left: 15px;
+    }
+    .individualtraining_inner {
+        max-width: 444px;
+    }
+    .footer {
+        font-family: 'Kelson-sans-light';
+    }
+    .footer .row {
+        text-align: center;
+        justify-content: center !important;
+    }
+    .footer_logo img {
+        margin-bottom: 10px;
+    }
+    .footer ul {
+        display: flex;
+        justify-content: center;
+        margin-bottom: 10px;
+    }
+    .footer_social-col p {
+        margin-bottom: 10px;
+    }
+    .footer ul li {
+        display: inline-block;
+        padding: 0 15px;
+        align-self: center;
+    }
+}
+
+@media(max-width: 1150px) {
+    .intro_inner h1, .freetraining_inner h1 {
+        font-size: 40px;
+    }
+}
+
+@media(max-width: 1100px) {
+    .header_inner, .footer {
+        padding: 16px 0;
+    }
+    .header_logo img {
+        width: 85px;
+    }
+    .menu_item+.menu_item {
+        padding-left: 28px;
+    }
+    .header_phone-num {
+        font-size: 20px !important;
+        line-height: 22px !important;
+    }
+    .menu_item p {
+        font-size: 16px;
+    }
+    .header_phone p img {
+        width: 18px;
+    }
+    .intro_bg {
+        display: none;
+    }
+    .intro {
+        padding: 74px 0;
+        background-image: url(../img/intro_bg.jpg);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+    }
+    .intro_inner {
+        position: static;
+        max-width: 530px;
+    }
+    .intro_inner {
+        top: 80px;
+    }
+    .intro_inner h1, .freetraining_inner h1 {
+        font-size: 36px;
+    }
+    .intro_inner p {
+        font-size: 21px;
+        margin-bottom: 40px;
+    }
+    .default_btn {
+        font-size: 15px;
+    }
+    .attentiontoprocess {
+        padding: 60px 0;
+    }
+    .attentiontoprocess_header h2, .whywe_header h2, .contacts_header h2, .freetraining_inner div span, .gallery_header h2, .forparents_header h2, .advantages_header h2, .FAQ_header h2 {
+        font-size: 27px;
+        line-height: 34px;
+    }
+    .whywe_card {
+        margin-bottom: 46px;
+    }
+    .attentiontoprocess_header h6, .attentiontoprocess_header p, .freetraining_inner p, .contacts_header div span, .forparents_header h6, .advantages_header h6, .FAQ_body-collapse h6 {
+        font-size: 20px;
+        line-height: 25px;
+        margin-bottom: 20px;
+    }
+    .FAQ_body-collapse h6 {
+        margin-bottom: 0;
+    }
+    .fancybox-slide--image .fancybox-content img {
+        width: 90%;
+    }
+    #body_gallery .fancybox-slide--complete .fancybox-content img {
+        width: 90%;
+    }
+    .forparents_img-wrapper {
+        width: 320px !important;
+    }
+    .footer_logo img {
+        width: 70px;
+    }
+}
+
+@media(max-width: 1050px) {
+    .intro_inner {
+        max-width: 520px;
+    }
+    .intro_inner h1 {
+        line-height: 52px;
+    }
+    .forparents_header, .forparents_body {
+        max-width: 652px;
+    }
+}
+
+@media(max-width: 1000px) {
+    .header_inner, .footer {
+        padding: 14px 0;
+    }
+    .header_logo img {
+        width: 76px;
+    }
+    .menu_item+.menu_item {
+        padding-left: 25px;
+    }
+    .menu_item a {
+        font-size: 13px;
+    }
+    .header_phone-num {
+        font-size: 18px !important;
+    }
+    .menu_item p {
+        font-size: 14px;
+    }
+    .header_phone p img {
+        width: 16px;
+    }
+    .intro_inner h1, .freetraining_inner h1 {
+        font-size: 34px;
+        line-height: 40px;
+        margin-bottom: 20px;
+    }
+    .intro_inner p {
+        font-size: 20px;
+        margin-bottom: 38px;
+    }
+    .default_btn {
+        font-size: 13px;
+        padding: 13px 30px;
+    }
+    .freetraining {
+        padding: 103px 0;
+    }
+    .freetraining_inner {
+        max-width: 700px;
+    }
+    .freetraining_inner div {
+        font-size: 24px;
+    }
+    .contacts {
+        padding: 40px 0 30px;
+    }
+    .forparents {
+        padding: 65px 0 0;
+    }
+    .forparents_header, .forparents_body {
+        max-width: 580px;
+    }
+    .advantages {
+        padding: 50px 0 0;
+    }
+    .advantages_icons-col img {
+        width: 40px;
+        height: 40px;
+        margin-bottom: 5px;
+    }
+    .FAQ_body-collapse p {
+        font-size: 20px;
+    }
+    .individualtraining_body h2 {
+        font-size: 24px;
+        margin-bottom: 20px;
+        line-height: 25px;
+    }
+    .individualtraining_body h6 {
+        font-size: 16px;
+        line-height: 18px;
+        margin-bottom: 15px;
+    }
+    .individualtraining_body p img {
+        width: 26px;
+        margin-right: 6px;
+    }
+    .individualtraining_body p {
+        font-size: 16px;
+        line-height: 20px;
+        margin-bottom: 10px;
+    }
+    .individualtraining_body a {
+        font-size: 12px;
+        margin-top: 10px;
+    }
+    .footer_logo img {
+        width: 65px;
+    }
+}
+
+@media(max-width: 992px) {
+    .default_btn {
+        font-size: 13px;
+    }
+    .grid-item {
+        width: 48%;
+    }
+}
+
+@media(max-width: 991px) {
+    .playcareer p img, .couchcareer p img, .couchlicensekategory p img {
+        position: static;
+    }
+    .whywechild_img {
+        margin-bottom: 70px;
+    }
+    .whywecouch_trainer {
+        font-size: 30px;
+        margin-bottom: 30px;
+    }
+}
+
+@media(max-width: 950px) {
+    .intro {
+        background-position: center;
+    }
+    .intro_inner {
+        max-width: 395px;
+    }
+    .intro_inner h1 {
+        line-height: 46px;
+    }
+    .freetraining_inner h1 {
+        line-height: 47px;
+    }
+}
+
+@media(max-width: 900px) {
+    header {
+        position: relative;
+        z-index: 1;
+    }
+    .header_inner, .footer {
+        padding: 12px 0;
+    }
+    .header_logo img {
+        width: 72px;
+    }
+    .header_phone-num {
+        font-size: 17px !important;
+    }
+    .menu_item p {
+        font-size: 13px;
+    }
+    .menu_item+.menu_item {
+        padding-left: 20px;
+    }
+    .intro_inner {
+        top: 50px;
+    }
+    .intro_inner .row {
+        width: 100%;
+        margin: 0 auto;
+    }
+    .intro_inner .row .col-12 {
+        padding: 0;
+    }
+    .attentiontoprocess_header h2, .whywe_header h2, .contacts_header h2, .freetraining_inner div span, .gallery_header h2, .forparents_header h2, .advantages_header h2, .FAQ_header h2 {
+        font-size: 25px;
+    }
+    .FAQ_header h6 {
+        font-size: 22px;
+    }
+    .attentiontoprocess_header h6, .attentiontoprocess_header p, .freetraining_inner p, .contacts_header div span, .forparents_header h6, .advantages_header h6, .FAQ_body-collapse h6 {
+        font-size: 18px;
+        line-height: 22px;
+        margin-bottom: 14px;
+    }
+    .attentiontoprocess_header h6 {
+        font-size: 15px;
+        line-height: 20px;
+        margin-bottom: 12px;
+    }
+    .attentiontoprocess {
+        padding: 40px 0 60px;
+    }
+    .gallery {
+        padding: 35px 0 10px;
+    }
+    .forparents {
+        padding: 55px 0 0;
+    }
+    .forparents_body p, .advantages_icons-col p {
+        font-size: 15px;
+    }
+    .FAQ_body-collapse h6 {
+        margin-bottom: 0;
+    }
+    .FAQ_body-collapse {
+        padding: 8px 8px 4px 30px;
+        margin-bottom: 15px;
+    }
+    .FAQ_body-collapse div img {
+        width: 35px;
+    }
+    .FAQ_body-collapse.active::before {
+        width: 12px;
+    }
+    .FAQ_body-collapse p {
+        font-size: 18px;
+    }
+    .FAQ_body-collapse {
+        border-radius: 6px;
+    }
+    .FAQ_body-collapse::before {
+        border-top-left-radius: 6px;
+        border-bottom-left-radius: 6px;
+    }
+    .individualtraining_bg {
+        display: none;
+    }
+    .individualtraining {
+        background-image: url(../img/individualtraining_bg.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: -30% center;
+    }
+    .individualtraining_inner {
+        position: static;
+        padding: 50px 0;
+        max-width: 375px;
+        transform: unset;
+    }
+    .forparents_img {
+        display: none;
+    }
+    .forparents_header, .forparents_body {
+        max-width: 100%;
+    }
+    .footer_logo img {
+        width: 60px;
+    }
+}
+
+@media(max-width: 830px) {
+    .header {
+        background-color: #FDE200;
+        z-index: initial;
+    }
+    .container-lg {
+        padding: 0 15px !important;
+    }
+    .header_inner {
+        padding: 30px 0;
+    }
+    .header_logo img {
+        width: 68px;
+    }
+    .menu {
+        position: fixed;
+        top: 0;
+        right: -198px;
+        bottom: 0;
+        padding: 14vh 24px 25px !important;
+        background-color: #fff;
+        overflow-y: auto;
+        flex-direction: column;
+    }
+    .menu li {
+        max-width: 150px;
+        display: block;
+        padding: 0 !important;
+        text-align: center;
+        margin-bottom: 28px;
+    }
+    .menu li a {
+        font-size: 14px;
+        text-decoration: underline;
+    }
+    .menu_item a:hover {
+        border-bottom-color: transparent;
+    }
+    .header_select {
+        display: none;
+    }
+    .mobile_select {
+        display: block;
+    }
+    .mobile_header_select {
+        position: absolute;
+        right: 45px;
+        top: 50%;
+        transform: translateY(-50%);
+        color: #000;
+    }
+    .mobile_select {
+        list-style: none;
+    }
+    .mobile_select .jq-selectbox__select-text {
+        width: 21px !important;
+        color: #000;
+        font-family: 'Kelson-sans-bold';
+    }
+    .mobile_select .jq-selectbox__select {
+        border: none;
+        background: unset;
+        color: #767676;
+        text-shadow: unset;
+        box-shadow: unset;
+        padding: 0 25px 0 10px;
+        outline: none;
+    }
+    .mobile_select .jq-selectbox li.selected {
+        background-color: #FDE200;
+    }
+    .mobile_select .jq-selectbox__trigger {
+        border-left: unset;
+    }
+    .mobile_select .jq-selectbox__trigger-arrow {
+        border-top: 5px solid #000;
+    }
+    .menu_icon {
+        display: flex;
+    }
+    .menu_close {
+        display: block;
+    }
+    .vertical_line1, .vertical_line2, .vertical_line3, .vertical_line4 {
+        display: none;
+    }
+    .vertical_line1 {
+        left: 33%;
+    }
+    .vertical_line2 {
+        left: 66%;
+    }
+    .freetraining_inner {
+        max-width: 100%;
+        text-align: center;
+    }
+    .freetraining_inner div {
+        display: block;
+        text-align: center;
+    }
+}
+
+@media(max-width: 800px) {
+    .whywecouch_trainer {
+        font-size: 22px;
+        margin-bottom: 25px;
+    }
+    .menu {
+        padding: 14vh 18px 25px !important;
+    }
+    .menu li {
+        margin-bottom: 24px;
+    }
+    .attentiontoprocess_header h2, .whywe_header h2, .contacts_header h2, .freetraining_inner div span, .gallery_header h2, .forparents_header h2, .advantages_header h2, .FAQ_header h2 {
+        font-size: 22x;
+        line-height: 30px;
+    }
+    .whywe_icon {
+        width: 50px;
+        height: 50px;
+    }
+    .whywe_circle {
+        width: 40px;
+        height: 40px;
+    }
+    .whywe_card {
+        margin-bottom: 40px;
+    }
+    .whywe_card:nth-child(3), .whywe_card:nth-child(4) {
+        margin-bottom: 20px;
+    }
+    .playcareer h3, .couchcareer h3, .couchlicensekategory h3 {
+        font-size: 22px;
+        margin-bottom: 6px;
+    }
+    .playcareer span, .couchcareer span, .couchlicensekategory span {
+        font-size: 16px;
+        line-height: 15px;
+    }
+    .playcareer p, .couchcareer p, .couchlicensekategory p {
+        font-size: 16px;
+        margin-bottom: 6px;
+    }
+    .individualtraining_inner {
+        padding: 40px 0;
+    }
+    .individualtraining_body h2 {
+        font-size: 22px;
+    }
+    .header_logo img {
+        position: relative;
+        width: 68px;
+        z-index: 1;
+    }
+}
+
+@media(max-width: 770px) {
+    .menu_icon span {
+        width: 28px;
+    }
+    .attentiontoprocess_header h2, .whywe_header h2, .contacts_header h2, .freetraining_inner div span, .forparents_header h2, .advantages_header h2, .FAQ_header h2 {
+        font-size: 22px;
+    }
+    .freetraining_inner div {
+        font-size: 16px;
+    }
+}
+
+@media(max-width: 768px) {
+    .individualtraining_body a {
+        font-size: 13px;
+    }
+    .whywe {
+        padding: 26px 55px 10px;
+    }
+    .attentiontoprocess_col::after {
+        display: none;
+    }
+    .attentiontoprocess_col {
+        margin-bottom: 25px;
+    }
+    .attentiontoprocess {
+        padding: 30px 0 0;
+    }
+    .attentiontoprocess_num{
+        font-size: 20px;
+    }
+    .attentiontoprocess_num::after {
+        width: 23px;
+        height: 23px;
+    }
+    .freetraining {
+        padding: 60px 0;
+    }
+    .freetraining_inner h1 {
+        margin-bottom: 12px;
+    }
+    .contacts_header div span {
+        font-size: 15px;
+        line-height: 22px;
+        margin-bottom: 0;
+    }
+    .contacts_header div span img {
+        width: 20px;
+    }
+    .contacts_map {
+        height: 300px;
+    }
+    .FAQ_body-collapse div img .FAQ_header .col-12 {
+        text-align: center;
+    }
+    .training_schedule {
+        padding: 55px 0 35px;
+    }
+    .training_schedule-header h2 {
+        font-size: 22px;
+        margin-bottom: 21px;
+    }
+    
+    .schedule_body-inner {
+        background-image: unset;
+    }
+    .weekdays {
+        width: 100%;
+    }
+    .schedule_day {
+        margin-bottom: 10px;
+        max-width: 100%;
+        padding-left: 91px;
+        padding: 0 41px 0 91px;
+    }
+    .schedule_day:nth-child(1), .schedule_day:nth-child(3), .schedule_day:nth-child(4),
+    .schedule_day:nth-child(6), .schedule_day:nth-child(7), .schedule_day:nth-child(8), .schedule_day:nth-child(10) {
+        border-top-left-radius: 37px;
+        border-bottom-left-radius: 37px;
+    }
+    .schedule_day p {
+        max-width: unset;
+    }
+  
+    .schedule_circle {
+        left: -1px;
+        border-color: #efefef;
+    }
+    .footer ul li {
+        padding: 0 15px;
+    }
+    .footer ul li a {
+        font-size: 17px;
+    }
+}
+
+@media(max-width: 767px) {
+    .gallery_body .row {
+        margin-bottom: 0;
+    }
+    .advantages_images-col img {
+        margin-bottom: 10px;
+    }
+    .forparents_body p {
+        line-height: 20px;
+    }
+    .FAQ {
+        padding: 40px 0 30px;
+    }
+}
+
+@media(max-width: 750px) {
+    .intro {
+        padding: 60px 0;
+    }
+    .intro {
+        background-position: center;
+        padding: 55px 0;
+        margin-bottom: 15px;
+    }
+}
+
+@media(max-width: 700px) {
+    .whywechild_img {
+        margin-bottom: 50px;
+    }
+    .forparents {
+        padding: 40px 0 0;
+    }
+    .advantages {
+        padding: 45px 0 0;
+    }
+    .FAQ {
+        padding: 30px 0 20px;
+    }
+    .FAQ_body-collapse p {
+        padding-top: 5px;
+    }
+    .individualtraining_inner {
+        max-width: 335px;
+    }
+    .intro {
+        background-position: 38% center;
+    }
+    .intro_inner {
+        max-width: 351px;
+    }
+    .intro_inner h1, .freetraining_inner h1 {
+        font-size: 27px;
+        margin-bottom: 15px;
+        line-height: 37px;
+    }
+    .intro_inner p {
+        font-size: 19px;
+        margin-bottom: 25px;
+        display: flex;
+        align-items: flex-start;
+    }
+    .intro_inner p img {
+        width: 26px;
+    }
+    .default_btn {
+        font-size: 13px;
+    }
+    .individualtraining {
+        background-position: 0% center;
+    }
+    .FAQ_header h6 {
+        font-size: 20px;
+    }
+}
+
+@media(max-width: 600px) {
+    .header_inner {
+        padding: 26px 0;
+    }
+    .header_logo img {
+        width: 58px;
+    }
+    .menu_icon {
+        top: 17px;
+        right: 14px;
+        width: 23px;
+        height: 18px;
+    }
+    .menu_icon span {
+        width: 23px;
+    }
+    .menu_icon span::before {
+        top: -7px;
+    }
+    .menu_icon span::after {
+        top: 7px;
+    }
+    .menu li a {
+        font-size: 15px;
+    }
+    .whywe {
+        padding: 20px 0px;
+    }
+    .attentiontoprocess_header h2, .whywe_header h2, .contacts_header h2, .freetraining_inner div span, .gallery_header h2, .forparents_header h2, .advantages_header h2, .FAQ_header h2 {
+        font-size: 19px;
+    }
+    .FAQ_header h6 {
+        font-size: 18px;
+    }
+    .whywe_icon {
+        width: 40px;
+        height: 40px;
+        left: 16px;
+    }
+    .whywe_circle {
+        width: 30px;
+        height: 30px;
+        left: 35px;
+    }
+    .whywecouch_trainer {
+        font-size: 20px;
+        margin-bottom: 20px;
+    }
+    .playcareer h3, .couchcareer h3, .couchlicensekategory h3 {
+        font-size: 20px;
+    }
+    .playcareer span, .couchcareer span, .couchlicensekategory span {
+        font-size: 14px;
+    }
+    .playcareer p, .couchcareer p, .couchlicensekategory p {
+        font-size: 14px;
+    }
+    .freetraining {
+        padding: 35px 0;
+    }
+    .freetraining_inner div {
+        margin: 0 auto;
+    }
+    .freetraining_inner h1 {
+        margin-bottom: 7px;
+    }
+    .freetraining_inner div {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: fit-content;
+    }
+    .freetraining_inner div span {
+        margin-bottom: 0 !important;
+    }
+    .contacts_map {
+        height: 200px;
+    }
+    .gallery {
+        padding: 25px 0 10px;
+    }
+    .gallery_header h2 {
+        margin-bottom: 2px;
+    }
+    .advantages_icons-col p {
+        font-size: 14px;
+    }
+    .FAQ_body-collapse h6, .FAQ_body-collapse p {
+        font-size: 16px;
+        line-height: 18px;
+    }
+    .forparents_header h6 {
+        font-size: 17px;
+    }
+    .advantages {
+        padding: 35px 0 0;
+    }
+    .individualtraining_inner {
+        padding: 35px 0;
+        max-width: 323px;
+    }
+    .individualtraining_body h2 {
+        font-size: 20px;
+    }
+    .individualtraining_body h6, .individualtraining_body p {
+        font-size: 14px;
+        line-height: 15px;
+    }
+    .individualtraining_body a {
+        font-size: 11px;
+    }
+    .footer_logo img {
+        width: 50px;
+    }
+    .footer ul {
+        margin-bottom: 0;
+    }
+    .footer_menu-col ul li, .footer_info-col ul li, .footer_social-col p {
+        margin-bottom: 5px !important;
+    }
+    .footer_social-col ul {
+        margin-bottom: 5px;
+    }
+    .modal_form {
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 300px;
+    }
+}
+
+@media(max-width: 575px) {
+    .attentiontoprocess_header {
+        margin-bottom: 45px;
+    }
+    .contacts_header {
+        text-align: center;
+    }
+    .attentiontoprocess_col {
+        max-width: 350px;
+        margin: 0 auto;
+        margin-bottom: 25px;
+    }
+    .advantages_body-icons .advantages_icons-col {
+        margin-bottom: 20px;
+    }
+    .individualtraining_body .attentiontoprocess_num {
+        margin-right: 15px;
+        z-index: 2;
+    }
+    .grid-item {
+        width: 100%;
+    }
+    .training_schedule {
+        padding: 45px 0 30px;
+    }
+    .training_schedule-header h2 {
+        font-size: 19px;
+        margin-bottom: 15px;
+    }
+    .schedule_day span {
+        font-size: 22px;
+    }
+    .schedule_circle {
+        font-size: 21px;
+    }
+}
+
+@media(max-width: 540px) {
+    .schedule_day {
+        max-width: 100%;
+        padding: 0 15px 0 85px;
+    }
+    .schedule_day p {
+        max-width: 270px;
+    }
+}
+
+@media(max-width: 530px) {
+    .menu_icon span::before {
+        top: -7px;
+    }
+    .menu_icon span::after {
+        top: 7px;
+    }
+}
+
+@media(max-width: 500px) {
+    .intro_inner {
+        max-width: 300px;
+    }
+    .intro_inner h1, .freetraining_inner h1 {
+        font-size: 26px;
+    }
+    .menu {
+        padding: 14vh 10px 25px !important;
+    }
+    .menu_icon span {
+        width: 24px;
+    }
+    .menu li a {
+        font-size: 13px;
+    }
+    .attentiontoprocess_header h2, .whywe_header h2, .contacts_header h2, .freetraining_inner div span, .gallery_header h2, .forparents_header h2, .advantages_header h2, .FAQ_header h2 {
+        font-size: 16px;
+        margin-bottom: 15px;
+        line-height: 20px;
+    }
+    .playcareer, .couchcareer {
+        margin-bottom: 20px;
+    }
+    .playcareer h3, .couchcareer h3, .couchlicensekategory h3 {
+        font-size: 18px;
+        margin-bottom: 0px;
+    }
+    .playcareer span, .couchcareer span, .couchlicensekategory span {
+        font-size: 12px;
+        margin-bottom: 9px;
+        line-height: 12px;
+    }
+    .playcareer p, .couchcareer p, .couchlicensekategory p {
+        font-size: 13px;
+        margin-bottom: 2px;
+    }
+    .attentiontoprocess {
+        padding: 15px 0 0;
+    }
+    .attentiontoprocess_col-inner span {
+        font-size: 12px;
+        padding: 3px 12px;
+    }
+    .contacts {
+        padding: 20px 0 15px;
+    }
+    .contacts_header h2, .freetraining_inner div span {
+        margin-bottom: 10px;
+    }
+    .contacts_header {
+        margin-bottom: 15px;
+    }
+    .gallery_header h2 {
+        margin-bottom: 5px;
+    }
+    .forparents {
+        padding: 35px 0 0;
+    }
+    .forparents_header h6 {
+        font-size: 15px;
+    }
+    .forparents_body p, .advantages_icons-col p {
+        font-size: 14px;
+    }
+    .advantages {
+        padding: 30px 0 0;
+    }
+    .advantages_header h6 {
+        font-size: 15px;
+    }
+    .FAQ_body-collapse h6, .FAQ_body-collapse p {
+        font-size: 14px;
+    }
+    .individualtraining_inner {
+        padding: 25px 0;
+    }
+    .individualtraining_body h2 {
+        font-size: 18px;
+        margin-bottom: 5px;
+    }
+    .individualtraining_body a {
+        padding: 10px 30px;
+        font-size: 9px;
+    }
+    .whywecouch_trainer {
+        margin-bottom: 15px;
+    }
+    .couch_img {
+        margin-bottom: 20px;
+    }
+    .forparents_header h6, .advantages_header h6, .FAQ_header h6 {
+        font-size: 16px;
+    }
+    .footer_logo img {
+        width: 45px;
+    }
+    .footer ul {
+        flex-direction: column;
+    }
+    .footer_social-col ul {
+        flex-direction: row;
+    }
+}
+
+@media(max-width: 450px) {
+    .individualtraining_inner {
+        max-width: 286px;
+    }
+    .individualtraining {
+        background-position: 12% center;
+    }
+}
+
+@media(max-width: 425px) {
+    .schedule_day {
+        padding: 10px 5px 10px 85px;
+        flex-direction: column-reverse;
+        justify-content: center;
+        align-items: unset;
+    }
+    .schedule_day span {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .schedule_circle {
+        font-size: 18px;
+    }
+    .attentiontoprocess_num::after {
+        bottom: 9px;
+        left: 4px;
+    }
+    .individualtraining_body .attentiontoprocess_num {
+        margin-right: 8px;
+    }
+}
+
+@media(max-width: 414px) {
+    .training_schedule {
+        padding: 40px 0 30px;
+    }
+    .training_schedule-header h2 {
+        margin-bottom: 10px;
+    }
+}
+
+@media(max-width: 400px) {
+    .intro {
+        background-position: 50% center;
+        padding: 55px 0 30px;
+    }
+    .intro_inner h1, .freetraining_inner h1 {
+        font-size: 24px;
+    }
+    .intro_inner p {
+        font-size: 18px;
+        margin-bottom: 65px;
+    }
+    .default_btn {
+        padding: 10px 30px;
+    }
+    .contacts_header h2 {
+        font-size: 15px;
+        margin-bottom: 10px;
+    }
+    .whywe_card h6 {
+        font-size: 15px;
+    }
+    .contacts_header .col-12 div {
+        display: flex;
+        flex-direction: column;
+    }
+    .contacts_header div span:nth-child(1) {
+        margin-right: 0;
+        margin-bottom: 5px;
+    }
+    .contacts_map {
+        height: 150px;
+    }
+    .individualtraining_inner {
+        max-width: 100%;
+    }
+    .individualtraining {
+        background-position: 23% center;
+    }
+    .individualtraining {
+        background-image: unset;
+    }
+}
+
+@media(max-width: 375px) {
+    .individualtraining {
+        background-position: 27% center;
+    }
+}
+
+@media(max-width: 360px) {
+    .schedule_day span {
+        font-size: 16px;
+        line-height: 18px;
+    }
+    .schedule_day p {
+        font-size: 12px;
+        line-height: 13px;
+        margin-right: 0;
+    }
+}
+
+@media(max-width: 350px) {
+    .intro {
+        background-position: 48% center;
+        padding: 50px 0 30px;
+    }
+    .individualtraining_body a {
+        padding: 8px 19px;
+    }
+    .schedule_day {
+        margin-bottom: 30px;
+        padding: 10px;
+    }
+    .schedule_circle {
+        top: 0;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 45px;
+        height: 45px;
+        border: 4px solid #fff;
+        font-size: 16px;
+    }
+    .schedule_day:nth-child(1), .schedule_day:nth-child(3), .schedule_day:nth-child(4), .schedule_day:nth-child(6),
+    .schedule_day:nth-child(7), .schedule_day:nth-child(8), .schedule_day:nth-child(10) {
+        border-top-left-radius: unset;
+        border-bottom-left-radius: unset;
+    }
+}
